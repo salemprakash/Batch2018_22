@@ -1,0 +1,57 @@
+#Two types of variables: categorical and continuous.
+
+# Create gender vector
+
+
+# Convert gender_vector to a factor
+
+
+#Nominal Categorical Variable
+
+
+#Ordinal Categorical Variable
+
+
+#Continuous Variables
+
+
+
+#Missing Values
+
+
+
+#Moving from Scripts to R Function
+
+
+#Writing Functions in R
+func_name <- function (argument) {
+statement
+}
+
+
+#Default Values for Arguments
+
+
+#R Return Value from Function
+
+
+#Functions without return()
+
+
+#Recursive Function in R
+# Recursive function to find factorial
+
+
+
+#R Infix Operator
+
+
+#User defined infix operator
+
+
+#Predefined infix operators in R 
+
+#Creating a vector using : operator
+
+#Creating a vector using seq() function
+
