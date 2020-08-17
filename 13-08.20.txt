@@ -55,3 +55,128 @@ statement
 
 #Creating a vector using seq() function
 
+#Repeat vectors in R
+#Repeat the vector three times
+
+
+##Repeat the vector three times each
+
+
+#each value, tell R how often to repeat
+
+
+
+17.08.20
+#seq() To create a sequence of numbers using print
+
+
+#To find the sum of numbers
+
+
+#To find the mean of numbers
+
+
+#To combine vectors after converting them to characters
+
+#sep is used to  separate the values
+
+#collapse is used to separate the values when a vector is passed
+
+
+#To return the minimum value from a vector.
+
+
+#To return the maximum value from a vector
+
+#To return the minimum and maximum values from a vector
+
+#To remove NA from the result (na.rm) is used
+
+
+#To return the index of the minimum value from a vector
+
+
+#To return the index of the maximum value from a vector
+
+
+User Defined Function
+#Create a function to print the sum of squares of numbers in sequence
+
+
+#Calling a function
+
+
+
+#Function without an Argument
+
+#Calling a function
+
+
+
+#Create a function to print the sum of squares of three numbers
+
+#Calling a function
+#Call by position of arguments
+#Call by names of arguments
+
+
+
+
+#R Numeric Functions
+     Function                          Description
+    abs(x)                               absolute value
+    ceiling(x)                         ceiling(3.475) is 4
+    sqrt(x)                              square root
+    floor(x)                             floor(3.475) is 3
+    log(x)                                natural logarithm
+    trunc(x)                            trunc(5.99) is 5
+    round(x, digits=n)        round(3.475, digit=2) is 3.48
+    log10(x)                            common logarithm
+    signif(x, digits=n)         signif(3.475, digit=2) is 3.5
+    exp(x)                                e^x
+    cos(x), sin(x), tan(x)      also acos(x), cosh(x), acosh(zx) etc
+
+
+
+Regular Expressions
+# Create example character vector
+
+# Apply grep function in R
+
+# Apply grepl function in R
+
+Apply grep & grepl with Multiple Patterns
+
+
+
+Example:
+From the list of Students in this group create a dataframe as df with two fields consisting of 6 students names as FirstName and Branch as Dept (Collection of all 4 Branches must). Find the exact match of CSE and IT Students in this dataframe.
+
+
+# Apply regexpr function in R
+#Integer vector of same length as text giving the starting position of the first match or -1 if there is none.
+
+
+#regmatches to get the actual substrings matched by the regular expression.
+
+# Apply gregexpr function in R
+#Returns a list of the same length as text each element of which of the same form as the return value for regexpr.
+
+
+
+
+Apply Function
+
+#lapply
+#Create a list with 5 marks in 
+#english, maths, phy and chem
+maths=c(64,45,89,67)
+english=c(79,84,62,80)
+physics=c(68,72,69,80)
+chemistry = c(99,91,84,89)
+
+
+#Sapply
+
+
+ 
