@@ -1,0 +1,177 @@
+20.08.20
+#Read csv file
+
+#Read CSV2 File
+
+#Read .txt Document
+
+
+#Read Fixed Width File
+
+# Reading SPSS file - 
+#Statistical Package for the Social Sciences
+
+
+#Read SAS file
+
+
+#Import Excel Document
+#Load package readxl
+
+
+#Print no. sheets in Excel Document
+
+
+#Read the 2nd Sheets
+
+
+
+
+#Export data
+
+
+#Tidyverse
+
+#Filter the country 'asia'
+
+#filter the year 1957
+
+#Year 2002, Country is China
+
+#Sort lifeExp
+
+#Year 1957 and pop in desc
+
+#lifeExp in months
+
+#Year 2007, lifeExpMonths and arrange in Desc
+
+#Create gapminder_1952
+
+
+#Create a boxplot from the above data with pop vs gdpPercap
+
+
+#Create a boxplot from the above data with pop vs gdpPercap expand x and y axis
+
+#Subgraph
+
+#Summarize
+#1957,  median - lifeExp, max-gdpPercap
+
+
+
+#Summarize the median gdpPercap  
+#by year then save in by_year
+
+
+#Summarize the median gdpPercap 
+#by year and Continent and save in
+#by_year_continent.
+#Line plot to show change in median
+#gdpPercap by continent over time
+
+
+#summarize the median gdppercap
+#by year and continent in 1952
+#Create a plot showing median gdp
+#by continent
+
+
+#Create gapminder_1952 and plot hist
+
+
+#Box Plot comparing gdppercap among
+#continent
+
+
+
+#Exploratory Data Analysis 
+#Load comics dataset 
+
+
+#Print the first rows of data
+
+#Check the levels of align
+
+#Check the leves of Gender
+
+#Create a 2 way contigency table
+
+#Remove align leve, then drop the 
+#unused level with droplevels
+
+
+#Create side-by-side barchart of gender by 
+#alginent and gender as the fill
+#aesthetic - Rotate axis label to 90
+
+
+#Counts and Proportions
+
+#Reorder
+
+
+#Exploring Numerical Data
+#Read the cars04 and save as cars
+
+#Structure of cars
+
+#Plot a hist of city_mpg, 
+#Whether the car is an SUV or not
+
+#Boxplot and Density plot, 
+#ncyl is 4,6 and 8 
+#Boxplot for ncyl and city_mpg
+
+
+#Create a density plot for city_mpg 
+#by ncyl
+
+
+#Distribution of one variable
+#Create hist of distribution of
+#horsepwr across all cars and add
+#title (Use Pipe method)
+
+#Create a hist of the distribution
+#of horsepwr, but only for those cars
+#that have msrp less than 25K. (Pipe)
+#Keep the limits of the x-axis 
+
+
+#Construct boxplot for msrp - Pipe
+
+#Remove outliers and construct boxplot
+
+#Display the distribution of 
+#city_mpg in boxplot
+
+
+#Create a hist of hwy_mpg - 3 Varaible plot
+#data is common_cyl
+
+
+
+#Web Scraping - rvest
+#Human Copy-Paste: 
+#Text pattern matching: 
+#API Interface: 
+#DOM Parsing: 
+
+#or
+
+#title Selection
+
+
+#runtime
+#title Selection
+
+
+#Genre data
+
+
+#Hist - runtime based on genre
+
+
+#Scatter plot for area and total population
